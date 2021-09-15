@@ -1,2 +1,2 @@
 # test
-test repo for esting
+test repo for testing
